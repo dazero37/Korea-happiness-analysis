@@ -14,7 +14,7 @@
 
 
 ## 🧾 프로젝트 기록 (노션)
-> https://boatneck-cormorant-f6f.notion.site/4-datathon-1d18a77d96d980c7be0ec065cd915a24?pvs=4
+> [https://boatneck-cormorant-f6f.notion.site/4-datathon-1d18a77d96d980c7be0ec065cd915a24?pvs=4](https://boatneck-cormorant-f6f.notion.site/4-datathon-1d18a77d96d980c7be0ec065cd915a24?pvs=4)
 
 ## 💡 문제 정의 
 > - 한국은 G12에 포함될 정도로 국제적 영향력이 커지며 선진국 반열에 올라서고 있으나 행복지수는 이러한 경제적·국제적 위상에 비해 상대적으로 낮은 수준을 보이고 있습니다.
