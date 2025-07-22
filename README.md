@@ -8,7 +8,7 @@
 
 ## 📦 데이터셋 출처
 - World Happiness Report
-- 출처: https://www.notion.so/5-Mid-Project-Log-1b58a77d96d980efb3a8f8a8bb212e0f?source=copy_link
+- 출처: [https://www.notion.so/5-Mid-Project-Log-1b58a77d96d980efb3a8f8a8bb212e0f?source=copy_link](https://www.worldhappiness.report/analysis/)
 - 기간: 2018 ~ 2022 
 - 데이터 포맷: CSV
 
